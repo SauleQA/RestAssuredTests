@@ -27,7 +27,7 @@ object UserBlockStub {
         )
 
         stubFor(
-            get(urlEqualTo("/3"))
+            get(urlEqualTo("/4"))
                 .willReturn(
                     aResponse()
                         .withStatus(404)
