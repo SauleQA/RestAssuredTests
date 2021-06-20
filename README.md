@@ -10,9 +10,6 @@ ____
 RESTAssured API tests example using Kotlin.<br/>
 #### The app under test is [SpringTaskProject](https://github.com/SauleQA/SpringTaskProject)<br/>
 
-## Integrations
-userblock.host=http://localhost:8040 [UserBlockApi](https://github.com/SauleQA/SpringUserBlockApi)
-
 ## Instructions to use
 1. Clone and run projects [SpringTaskProject](https://github.com/SauleQA/SpringTaskProject) and [UserBlockApi](https://github.com/SauleQA/SpringUserBlockApi)
 2. Clone this repo
